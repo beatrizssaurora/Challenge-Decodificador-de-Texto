@@ -34,7 +34,7 @@ main {
 
 .mensagem {
     background: white;
-    background-image: url(/Imagens/Boneco.png);
+    background-image: url(Imagens/Boneco.png);
     background-repeat: no-repeat;
     background-position: 5px;
     border: none;
