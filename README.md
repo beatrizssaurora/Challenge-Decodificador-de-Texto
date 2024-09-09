@@ -7,3 +7,7 @@ Lógica de programação: Desenvolver algoritmos eficientes para manipular strin
 Resolução de problemas: Analisar o problema, quebrar em partes menores e encontrar soluções criativas.
 
 Pensamento crítico: Avaliar diferentes abordagens e escolher a mais adequada para cada situação.
+
+Link do projeto 
+
+https://beatrizssaurora.github.io/Challenge-Decodificador-de-Texto/
