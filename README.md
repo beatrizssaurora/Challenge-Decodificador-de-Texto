@@ -1,4 +1,4 @@
-![Projeto](Imagens\projeto1.png)
+![Projeto](Imagens/projeto1.png)
 
 ## Desafio Decodificador de Texto: Desvendando a Lógica da Programação
 
